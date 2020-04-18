@@ -2,10 +2,10 @@
 export const API_SEARCH_URL = "https://api.giphy.com/v1/gifs/search";
 
 // Giphy API Key - Get yours at https://developers.giphy.com/dashboard/
-export const API_KEY = "TrOGqCcvWgEZMlGSVx8hoS1q1v46KFZ6";
+export const API_KEY = "uKftTegEbX2vk73NbtmNWH2jPLjsmWx2";
 
 // Initial search values
-export const DEFAULT_SEARCH_TERM = "Bogota";
+export const DEFAULT_SEARCH_TERM = "Guatemala";
 export const DEFAULT_SEARCH_LIMIT = 5;
 export const DEFAULT_SEARCH_OFFSET = 0;
 
