@@ -1,3 +1,3 @@
-# rxjs-workshop-angular-bogota-vxhx8m
+# rxjs-workshop-angular
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-workshop-angular)
